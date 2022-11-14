@@ -6,3 +6,7 @@ console.log(global)
 
 //Task 3 Directory Name
 console.log(__dirname);
+
+
+//Task 4 File Name
+console.log(__filename);
